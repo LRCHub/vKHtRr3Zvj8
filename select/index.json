@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Take It Over",
+  "base_artist": "DOLLCHESTRA",
+  "createdAt": "2026-02-23T07:20:52.022863Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Take It Over",
+      "artist": "Waves",
+      "has_synced": true,
+      "path": "select/01_Take_It_Over_Waves.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Take It Over",
+      "artist": "Goapele",
+      "has_synced": true,
+      "path": "select/02_Take_It_Over_Goapele.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Take It Over",
+      "artist": "DOLLCHESTRA",
+      "has_synced": true,
+      "path": "select/03_Take_It_Over_DOLLCHESTRA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Take It Over",
+      "artist": "Goapele",
+      "has_synced": false,
+      "path": "select/04_Take_It_Over_Goapele.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Take It Over",
+      "artist": "TOTALFAT",
+      "has_synced": false,
+      "path": "select/05_Take_It_Over_TOTALFAT.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Take It Over (104th Ver.)",
+      "artist": "DOLLCHESTRA",
+      "has_synced": true,
+      "path": "select/06_Take_It_Over_(104th_Ver.)_DOLLCHESTRA.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Take It Over / A Somewhat Adamant Intro",
+      "artist": "Eric Heron",
+      "has_synced": false,
+      "path": "select/07_Take_It_Over___A_Somewhat_Adamant_Intro_Eric_Heron.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Take it over now",
+      "artist": "Chicoria",
+      "has_synced": true,
+      "path": "select/08_Take_it_over_now_Chicoria.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Take It Over",
+      "artist": "DOLLCHESTRA",
+      "has_synced": false,
+      "path": "select/pl_01_Take_It_Over_DOLLCHESTRA.txt"
+    }
+  ]
+}
